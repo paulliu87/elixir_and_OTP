@@ -32,6 +32,6 @@ defmodule Metex.Worker do
   end
 
   defp apikey do
-    "APIKEY-GOES-HERE"
+    "9a49e286699bd654fcbfb20f19fa3abd"
   end
 end
